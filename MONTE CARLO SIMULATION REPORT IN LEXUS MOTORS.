@@ -1,0 +1,27 @@
+
+
+🚗📊 **Monte Carlo Simulation for Lexus Business – Report & Insights**
+
+I recently completed a project applying **Monte Carlo Simulation** to analyze business uncertainty for a Lexus unit.
+
+🔹 **Key assumptions**:
+
+* Revenue \~ Uniform(5M – 12M)
+* Costs \~ Normal(mean = 7.5M, std = 1.2M)
+* Target Profit % Range: 15% – 25%
+
+🔹 **Highlights from the simulation (50,000 trials)**:
+
+* 📈 Mean Profit: \~ **0.99M**
+* 📊 Mean Profit %: **6.08%**
+* ⚖️ Probability of achieving target profit %: **15.74%**
+* ⚠️ Probability of loss: **35.97%**
+
+This project demonstrates how **probabilistic modeling and risk analysis** can provide deeper business insights compared to single-point forecasts.
+
+I’ve included the **full report with Python code and visualizations** to make the analysis reproducible and transparent.
+
+👉 Excited to apply such methods to real-world business problems in data science and financial modeling!
+
+\#MonteCarlo #DataScience #BusinessAnalytics #RiskManagement #Python #Simulation
+
